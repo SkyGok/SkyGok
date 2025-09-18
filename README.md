@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Gökhan
+<h1 align = "center">H1, Hi I'm Gökhan</h1>
 
 🚀 **Engineer | Maker | Self-Taught Coder | Startup Builder**
 
@@ -23,7 +23,6 @@ I’m a mechanical engineering student who turned curiosity for robotics into a 
 * 🤖 **Ulurover**: Founded and led a university rover team. Built an autonomous rover with a robotic arm.
 * 🐔 **Chicken Detection YOLO**: Trained a custom dataset for object detection.
 * 🏭 **Factory Systems**: Designed and analyzed workplace systems as a project engineer.
-* 📱 **Klasss Startup**: Building a fashion-based app with friends.
 * 💡 **Personal Finance App**: Currently working on a tool to simplify money management in Turkey.
 
 ### 🎯 Goals
