@@ -1,4 +1,4 @@
-<h1 align = "center">H1, Hi I'm Gökhan</h1>
+<h1 align = "center">HI, I'm Gökhan</h1>
 
 🚀 **Engineer | Maker | Self-Taught Coder | Startup Builder**
 
