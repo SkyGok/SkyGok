@@ -114,11 +114,8 @@
 
 ---
 
-### 🎯 Goals
-
-* Build AI-powered robots that **solve production problems**.  
-* Pursue a **Master’s in Computer Science / Engineering**.  
-* Grow my projects into sustainable products and startups.
+### Github Stats
+< alighn = "center" ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyGok&show_icons=true&theme=radical)>
 
 ---
 
@@ -129,7 +126,6 @@
 
 ---
 
-> ✨ *“I would rather die than being useless.”*  
-> *(Alternative — softer tone: “I’d rather create value than remain idle.”)*
+> ✨ *“I would rather die than being useless.”* 
 
 ---
