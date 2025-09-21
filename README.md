@@ -115,7 +115,12 @@
 ---
 
 ### Github Stats
-< alighn = "center" ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyGok&show_icons=true&theme=radical)>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyGok&show_icons=true&theme=radical)
+
+---
+
+### Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/gokhanskydulger?theme=dark&font=Istok%20Web)
 
 ---
 
