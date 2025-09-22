@@ -131,6 +131,6 @@
 
 ---
 
-> ✨ *“I would rather die than being useless.”* 
+> ✨ *“There’s this emperor, and he asks the shepherd’s boy how many seconds in eternity. And the shepherd’s boy says, ‘There’s this mountain of pure diamond. It takes an hour to climb it and an hour to go around it, and every hundred years a little bird comes and sharpens its beak on the diamond mountain. And when the entire mountain is chiseled away, the first second of eternity will have passed.’ You may think that’s a hell of a long time. Personally, I think that’s a hell of a bird.”* 
 
 ---
